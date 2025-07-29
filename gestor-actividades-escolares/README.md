@@ -6,7 +6,7 @@
 
 ### he abierto las tablas de Alumnos e Inscripciones en migrations y carpetas en Models
 
-### en el .env he rectificado las cosas
+### En el .env he rectificado las cosas
 
 DB_CONNECTION=mmysql
 DB_HOST=127.0.0.1
